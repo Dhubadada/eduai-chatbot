@@ -1,0 +1,34 @@
+name: eduai
+description: "A new Flutter project."
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Firebase Core Packages
+  firebase_core: ^2.27.0
+  firebase_auth: ^4.17.8
+
+  # For professional UI and styling
+  google_fonts: ^6.2.1
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  # To add assets like your logo
+  # 1. Create a folder named 'assets' in your project's root directory.
+  # 2. Place your EDU logo inside it (e.g., 'assets/edu_logo.png').
+  # 3. Uncomment and update the lines below.
+  assets:
+    - assets/edu_logo.png
