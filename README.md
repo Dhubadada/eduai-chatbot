@@ -1,4 +1,6 @@
 # EduAI - East Delta University Chatbot
+<img width="469" height="594" alt="image" src="https://github.com/user-attachments/assets/4ce9668e-a94c-4660-857d-7323fc51ad59" />
+
 
 A Flutter-based mobile application that serves as an AI chatbot for East Delta University (EDU), providing information about programs, admissions, scholarships, and more.
 
